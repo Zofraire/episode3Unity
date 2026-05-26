@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Asset-Tables-Tuvan (tv)
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Localization-Asset-Tables-Tuvan (tv)
+  m_GUID: a6ce43210949ad44c8500a80e95faf7c
+  m_SerializeEntries:
+  - m_GUID: 338be1a62767d9347b347b2637b4d00d
+    m_Address: ep3_voices_tv
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tv
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd6e7213ef641024cbd33d8bbe3e2ff1
+    m_Address: ep2_voices_tv
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-tv
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: b55af84268cc5e4428296cee7d316ad9, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 92d132cd7440fb342990581eaa60a73e, type: 2}
+    - {fileID: 11400000, guid: 9085860a3e81e1648bb088d19bb0dfc5, type: 2}

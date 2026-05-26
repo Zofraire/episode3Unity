@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4db626ad063b13545924a9839ac5fa83, type: 3}
+  m_Name: ep2_voices
+  m_EditorClassIdentifier: Unity.Localization.Editor::UnityEditor.Localization.AssetTableCollection
+  m_SharedTableData: {fileID: 11400000, guid: eaa97f19088be6c4d80fbac73225b156, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: eaec1935b6c3b5a4ea435e0401b30efe, type: 2}
+  - {fileID: 11400000, guid: f49abc1d8f443b943802d16a243b00ba, type: 2}
+  - {fileID: 11400000, guid: ff0ab7a028033b14094d3bf575d4cbd2, type: 2}
+  - {fileID: 11400000, guid: 19a326c43d740734189a726432331d3f, type: 2}
+  - {fileID: 11400000, guid: fd6e7213ef641024cbd33d8bbe3e2ff1, type: 2}
+  m_Extensions: []
+  m_Group: Asset Table
+  references:
+    version: 2
+    RefIds: []

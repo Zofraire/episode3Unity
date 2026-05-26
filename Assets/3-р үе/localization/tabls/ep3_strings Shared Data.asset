@@ -1,0 +1,188 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: ep3_strings Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: ep3_strings
+  m_TableCollectionNameGuidString: 4f71f8507624b084abe2bba36b4ec88b
+  m_Entries:
+  - m_Id: 11014176768
+    m_Key: ep3_game_1_intro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 636183576576
+    m_Key: ep3_game_1_text_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1084646948864
+    m_Key: ep3_game_1_text_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1425547395072
+    m_Key: ep3_game_1_text_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1782960816128
+    m_Key: 'ep3_game_1_text_4
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1891211608064
+    m_Key: 'ep3_game_1_text_5
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1981137485824
+    m_Key: 'ep3_game_1_text_6
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2185559474176
+    m_Key: ep3_game_1_text_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2304858062848
+    m_Key: ep3_game_1_text_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2467320233984
+    m_Key: ep3_game_1_sticker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2610421497856
+    m_Key: ep3_game_1_key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2721365032960
+    m_Key: ep3_game_1_picture
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817653669888
+    m_Key: ep3_game_1_tshirt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2977196605440
+    m_Key: ep3_game_1_books
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3108977442816
+    m_Key: ep3_game_1_badge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3306805985280
+    m_Key: ep3_game_1_exam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3497437102080
+    m_Key: ep3_game_1_note
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6117639782400
+    m_Key: ep3_game_2_intro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6248560787456
+    m_Key: ep3_game_2_text_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6365149855744
+    m_Key: ep3_game_2_text_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6423182245888
+    m_Key: ep3_game_2_text_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6478765162496
+    m_Key: ep3_game_2_outro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6586588135424
+    m_Key: 'ep3_game_3_intro
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6664744796160
+    m_Key: 'ep3_game_3_q1
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6783376490496
+    m_Key: 'ep3_game_3_q1_a
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6891564367872
+    m_Key: 'ep3_game_3_q1_b
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6994765217792
+    m_Key: 'ep3_game_3_q2
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7082099015680
+    m_Key: 'ep3_game_3_q2_a
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7148297715712
+    m_Key: 'ep3_game_3_q2_b
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7227104493568
+    m_Key: 'ep3_game_3_q3
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7286416146432
+    m_Key: 'ep3_game_3_q3_a
+
+      _'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7363742334976
+    m_Key: 'ep3_game_3_q3_b
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7940559798272
+    m_Key: 'ep3_game_3_outro
+
+'
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 455629999931130074
+  references:
+    version: 2
+    RefIds:
+    - rid: 455629999931130074
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1777805208417

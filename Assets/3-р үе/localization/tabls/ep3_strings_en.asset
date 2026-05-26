@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ep3_strings_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 4f71f8507624b084abe2bba36b4ec88b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 11014176768
+    m_Localized: "Find five positive words or phrases and three images that represent
+      a respectful classroom environment.\r\nLook carefully\u2014they could be anywhere!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 636183576576
+    m_Localized: "We don\u2019t take photos of others without permission"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1084646948864
+    m_Localized: We do not use rude language.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1425547395072
+    m_Localized: We do not say insulting words to others.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1782960816128
+    m_Localized: I will not act angry or aggressive.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1891211608064
+    m_Localized: We do not make fun of each other in our class.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1981137485824
+    m_Localized: I will treat others with respect.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2185559474176
+    m_Localized: "We will always oppose touching other people\u2019s belongings without
+      permission."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2304858062848
+    m_Localized: I encourage everyone to treat one another with respect.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2467320233984
+    m_Localized: Sticker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2610421497856
+    m_Localized: Keychain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2721365032960
+    m_Localized: Picture
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2817653669888
+    m_Localized: T-shirt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2977196605440
+    m_Localized: Books
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3108977442816
+    m_Localized: Badge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3306805985280
+    m_Localized: Exam paper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3497437102080
+    m_Localized: Note paper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6117639782400
+    m_Localized: Match each item to its rightful owner.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6248560787456
+    m_Localized: I will listen to the voice of someone who is experiencing peer bullying.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6365149855744
+    m_Localized: If I witness peer bullying, I will not ignore it and walk past as
+      if I did not see it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6423182245888
+    m_Localized: If I become aware of peer bullying, I will definitely tell a trusted
+      adult.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6478765162496
+    m_Localized: '"We will listen.
+
+      We will see.
+
+      We will speak up.
+
+      We
+      will not ignore bullying.
+
+      Together, we can take action and stop it."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6586588135424
+    m_Localized: "\"Let\u2019s correctly answer the questions and fix the \u201Cbridge
+      of help\u201D to assist the girl.\n\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6664744796160
+    m_Localized: Your friend is crying. What will you do?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6783376490496
+    m_Localized: Tell them to calm down and leave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6891564367872
+    m_Localized: Ask why they are crying
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6994765217792
+    m_Localized: "You hear that your friend\u2019s belongings were torn and thrown
+      away on purpose. What will you do?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7082099015680
+    m_Localized: Suggest telling a teacher
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7148297715712
+    m_Localized: "Say \u201CIt\u2019s okay, just ignore it this time\u201D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7227104493568
+    m_Localized: "A friend\u2019s arm is bruised, and they are clearly trying to
+      hide it from you. What would you do in this situation?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7286416146432
+    m_Localized: Since they are hiding it, I would just ignore it and leave it alone.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7363742334976
+    m_Localized: I would ask how it got bruised and consult a teacher for advice.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7940559798272
+    m_Localized: "Thank you for fixing the \u201Cbridge of help.\u201D"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ep2_strings_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 5aebb5acd9b01354ca09fb5504556f15, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 10972233728
+    m_Localized: What type of bullying is shown in this scene?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 781189054464
+    m_Localized: Physical bullying
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1079328571392
+    m_Localized: Verbal bullying
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1243585904640
+    m_Localized: Social bullying
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1392567582720
+    m_Localized: Cyberbullying
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486352220160
+    m_Localized: If you saw this in your classroom, what would you say to encourage
+      others?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1676580683776
+    m_Localized: "We\u2019re all classmates, so let\u2019s stop bullying each other
+      like this."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1819224768512
+    m_Localized: "Don\u2019t let him/her sit on the chair."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1902741749760
+    m_Localized: "As long as they stay away from me, I don\u2019t care about the
+      others."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1997507854336
+    m_Localized: "It\u2019s okay, don\u2019t pay attention to it."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2118538690560
+    m_Localized: If someone is saying harmful things about you or your friend online,
+      what should you do?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2175082102784
+    m_Localized: Take a screenshot and show it to an adult (parent or teacher) so
+      action can be taken.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2293864792064
+    m_Localized: "As long as it\u2019s not me, I\u2019ll just stay quiet."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2405777211392
+    m_Localized: Share that post and chat with others.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2524861890560
+    m_Localized: Send a supportive emoji in response.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2628243095552
+    m_Localized: "\"Friends, if you see someone around you feeling alone or struggling,
+      don\u2019t stay silent.\nReach out and help when they need it.\nLet\u2019s
+      create a safe and peaceful environment for every child\u2014together.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2736225452032
+    m_Localized: " That\u2019s right."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2874008338432
+    m_Localized: ook carefully at the image again.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7492452941824
+    m_Localized: "Friends, when we witness bullying, let\u2019s see how our emotions
+      respond."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7922851446784
+    m_Localized: Memorize the color sequence and tap in order.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7988756545536
+    m_Localized: "When I see bullying, I feel angry. This anger is not just irritation\u2014it\u2019s
+      a reaction to unfairness. Even when angry, we can still do the right thing
+      and seek help."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32333046415360
+    m_Localized: "It\u2019s truly sad to see someone being bullied. This sadness
+      reminds us: \u2018I don\u2019t want to ignore this."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32422259261440
+    m_Localized: I may want to help but feel afraid I might be bullied too. Asking
+      help from a trusted adult (like a teacher) is an act of courage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32515146317824
+    m_Localized: "You might wonder, \u2018Why is this happening?\u2019 This feeling
+      helps us reflect and understand what\u2019s right."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32611451731968
+    m_Localized: The joy you feel after helping someone and doing the right thing.
+      Even small actions can bring light to others.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32669463150592
+    m_Localized: "When you see bullying, you feel it\u2019s wrong. Don\u2019t hide
+      that feeling\u2014use it to support what is right."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32988410609664
+    m_Localized: Memorize the color sequence and tap in order.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8310071567147008
+    m_Localized: "Let\u2019s help Nico recognize and calm their emotions!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8310211275218944
+    m_Localized: "Complete the image and turn Nico\u2019s angry face into a smile."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8310279164223488
+    m_Localized: By recognizing your emotions, you can help others
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8310360101707776
+    m_Localized: "Even when angry, don\u2019t blame others. Hitting or bullying is
+      wrong"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8310376354635776
+    m_Localized: You should not hurt others to calm yourself
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8310385494024192
+    m_Localized: "True strength is not just physical\u2014it\u2019s the ability to
+      control your emotions"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Asset-Tables-Mongolian (mn)
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Localization-Asset-Tables-Mongolian (mn)
+  m_GUID: 8d7471e0ba745e844bc748decc335d64
+  m_SerializeEntries:
+  - m_GUID: 2cf2c7aed34060740a1c7d4ecf18b92b
+    m_Address: ep3_voices_mn
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-mn
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff0ab7a028033b14094d3bf575d4cbd2
+    m_Address: ep2_voices_mn
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-mn
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: b55af84268cc5e4428296cee7d316ad9, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f0d657bb35972e44aaf0d0659e5b593d, type: 2}
+    - {fileID: 11400000, guid: 912694f671b999e48a971ea1f54102b7, type: 2}

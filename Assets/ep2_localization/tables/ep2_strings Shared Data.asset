@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: ep2_strings Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: ep2_strings
+  m_TableCollectionNameGuidString: 5aebb5acd9b01354ca09fb5504556f15
+  m_Entries:
+  - m_Id: 10972233728
+    m_Key: ep2_game_3_q1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 781189054464
+    m_Key: 'ep2_game_3_q1_correct
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1079328571392
+    m_Key: 'ep2_game_3_q1_option1
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1243585904640
+    m_Key: 'ep2_game_3_q1_option2
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1392567582720
+    m_Key: 'ep2_game_3_q1_option4
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1486352220160
+    m_Key: ep2_game_3_q2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1676580683776
+    m_Key: ep2_game_3_q2_correct
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1819224768512
+    m_Key: ep2_game_3_q2_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1902741749760
+    m_Key: ep2_game_3_q2_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1997507854336
+    m_Key: ep2_game_3_q2_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2118538690560
+    m_Key: ep2_game_3_q3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2175082102784
+    m_Key: ep2_game_3_q3_correct
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2293864792064
+    m_Key: ep2_game_3_q3_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2405777211392
+    m_Key: ep2_game_3_q3_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2524861890560
+    m_Key: ep2_game_3_q3_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2628243095552
+    m_Key: ep2_game_3_outro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2736225452032
+    m_Key: ep2_game_3_zuv
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2874008338432
+    m_Key: ep2_game_3_attention
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7492452941824
+    m_Key: ep2_game_2_intro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7922851446784
+    m_Key: ep2_game_2_tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7988756545536
+    m_Key: 'ep2_game_2_anger
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32333046415360
+    m_Key: 'ep2_game_2_sad
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32422259261440
+    m_Key: 'ep2_game_2_fear
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32515146317824
+    m_Key: ep2_game_2_confusion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32611451731968
+    m_Key: ep2_game_2_happy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32669463150592
+    m_Key: ep2_game_2_disgust
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32988410609664
+    m_Key: ep2_game_2_tutorial2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8310071567147008
+    m_Key: ep2_g1_intro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8310211275218944
+    m_Key: ep2_g1_tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8310279164223488
+    m_Key: ep2_g1_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8310360101707776
+    m_Key: ep2_g1_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8310376354635776
+    m_Key: ep2_g1_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8310385494024192
+    m_Key: ep2_g1_4
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 455630002866618449
+  references:
+    version: 2
+    RefIds:
+    - rid: 455630002866618449
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1777816676603

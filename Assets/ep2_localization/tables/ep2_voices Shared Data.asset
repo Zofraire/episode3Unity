@@ -1,0 +1,277 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: ep2_voices Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: ep2_voices
+  m_TableCollectionNameGuidString: eaa97f19088be6c4d80fbac73225b156
+  m_Entries:
+  - m_Id: 5063663616
+    m_Key: ep2_game_2_intro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43953250304
+    m_Key: ep2_game_2_tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106557431808
+    m_Key: ep2_game_2_anger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123955404800
+    m_Key: ep2_game_2_sad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138719354880
+    m_Key: ep2_game_2_fear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 149691654144
+    m_Key: ep2_game_2_confusion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276913283072
+    m_Key: ep2_game_2_happy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 288023994368
+    m_Key: ep2_game_2_disgust
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3550554972160
+    m_Key: ep2_game_3_q1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3580837847040
+    m_Key: ep2_game_3_q2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3582293270528
+    m_Key: ep2_game_3_q3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3837684441088
+    m_Key: ep2_game_3_outro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3852737798144
+    m_Key: ep2_game_3_zuv
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3860484677632
+    m_Key: ep2_game_3_attention
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6427247730688
+    m_Key: ep2_g1_intro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6430804500480
+    m_Key: ep2_g1_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6432238952448
+    m_Key: ep2_g1_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6432964567040
+    m_Key: ep2_g1_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6433681793024
+    m_Key: ep2_g1_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8083947479040
+    m_Key: ep2_g1_tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21181198589952
+    m_Key: ep2_g2_congratulations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21580429221888
+    m_Key: ep2_g2_tryagain
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items:
+    - rid: 742535986354585677
+  m_KeyGenerator:
+    rid: 742535986354585676
+  references:
+    version: 2
+    RefIds:
+    - rid: 742535986354585676
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1779796583655
+    - rid: 742535986354585677
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 5063663616
+          m_TableCodes:
+          - en
+          - kk-KZ
+          - tv
+          - mn
+          - sn
+        - m_KeyId: 43953250304
+          m_TableCodes:
+          - en
+          - kk-KZ
+          - tv
+          - mn
+          - sn
+        - m_KeyId: 106557431808
+          m_TableCodes:
+          - en
+          - kk-KZ
+          - tv
+          - mn
+          - sn
+        - m_KeyId: 123955404800
+          m_TableCodes:
+          - en
+          - kk-KZ
+          - tv
+          - mn
+          - sn
+        - m_KeyId: 138719354880
+          m_TableCodes:
+          - en
+          - kk-KZ
+          - tv
+          - mn
+          - sn
+        - m_KeyId: 149691654144
+          m_TableCodes:
+          - en
+          - kk-KZ
+          - tv
+          - mn
+          - sn
+        - m_KeyId: 276913283072
+          m_TableCodes:
+          - en
+          - kk-KZ
+          - tv
+          - mn
+          - sn
+        - m_KeyId: 288023994368
+          m_TableCodes:
+          - en
+          - kk-KZ
+          - tv
+          - mn
+          - sn
+        - m_KeyId: 3852737798144
+          m_TableCodes:
+          - en
+          - kk-KZ
+          - mn
+          - tv
+          - sn
+        - m_KeyId: 3860484677632
+          m_TableCodes:
+          - en
+          - kk-KZ
+          - mn
+          - tv
+          - sn
+        - m_KeyId: 3550554972160
+          m_TableCodes:
+          - en
+          - kk-KZ
+          - mn
+          - tv
+          - sn
+        - m_KeyId: 3580837847040
+          m_TableCodes:
+          - en
+          - kk-KZ
+          - mn
+          - tv
+          - sn
+        - m_KeyId: 3582293270528
+          m_TableCodes:
+          - en
+          - kk-KZ
+          - mn
+          - tv
+          - sn
+        - m_KeyId: 3837684441088
+          m_TableCodes:
+          - en
+          - kk-KZ
+          - mn
+          - tv
+          - sn
+        - m_KeyId: 6430804500480
+          m_TableCodes:
+          - en
+          - kk-KZ
+          - mn
+          - tv
+          - sn
+        - m_KeyId: 6432238952448
+          m_TableCodes:
+          - en
+          - kk-KZ
+          - tv
+          - mn
+          - sn
+        - m_KeyId: 6432964567040
+          m_TableCodes:
+          - en
+          - kk-KZ
+          - tv
+          - mn
+          - sn
+        - m_KeyId: 6433681793024
+          m_TableCodes:
+          - en
+          - kk-KZ
+          - tv
+          - mn
+          - sn
+        - m_KeyId: 6427247730688
+          m_TableCodes:
+          - en
+          - kk-KZ
+          - tv
+          - mn
+          - sn
+        - m_KeyId: 8083947479040
+          m_TableCodes:
+          - mn
+          - sn
+          - en
+          - kk-KZ
+          - tv
+        - m_KeyId: 21181198589952
+          m_TableCodes:
+          - kk-KZ
+          - en
+          - mn
+          - sn
+          - tv
+        - m_KeyId: 21580429221888
+          m_TableCodes:
+          - tv
+          - mn
+          - sn
+          - kk-KZ
+          - en
+        m_TypeString: UnityEngine.AudioClip, UnityEngine.AudioModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null

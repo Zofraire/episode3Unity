@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97269afb30aa84742ae3f3342603618a, type: 3}
+  m_Name: ep2_voices_kk-KZ
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.AssetTable
+  m_LocaleId:
+    m_Code: kk-KZ
+  m_SharedData: {fileID: 11400000, guid: eaa97f19088be6c4d80fbac73225b156, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 43953250304
+    m_Localized: 99636d5f06df3c8498cc1e64f484affe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5063663616
+    m_Localized: 6f1d983c69f837d4293f89e2aa8b74d3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 276913283072
+    m_Localized: 076fc1b861c5ac54d8cf090846f886fc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138719354880
+    m_Localized: ea8c711702b86ea4d8cbd119fe905637
+    m_Metadata:
+      m_Items: []
+  - m_Id: 149691654144
+    m_Localized: dc84da03dd7f75b4c90f2a43e172722c
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123955404800
+    m_Localized: 1112d2387a901fa42a0f397ac80af6de
+    m_Metadata:
+      m_Items: []
+  - m_Id: 288023994368
+    m_Localized: 6482240c73f4ae34e8f6af33ec645ecc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106557431808
+    m_Localized: 9c95034c387857a498b56e4aecd9bcc8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3852737798144
+    m_Localized: 31103acfb38c1a04690832c669a59ba9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3860484677632
+    m_Localized: 113aabe2374e6424685faacc92cfb6bf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3550554972160
+    m_Localized: 76913bfce59755f46aff14984a5b6381
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3580837847040
+    m_Localized: 3a0a558774223e04e845d0bbc9b17a02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3582293270528
+    m_Localized: 78d7122c2b7e1df4b85b468437ba973a
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3837684441088
+    m_Localized: 6b143c7e1fa65b048ab37cd8b46a9ca6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6427247730688
+    m_Localized: fd055eb336c65a349a6a1325e0eae7cb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8083947479040
+    m_Localized: 9dca92c1a94b40d48b77a3c8afde0d91
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6430804500480
+    m_Localized: f4d9a56f514fbce46a5eb4db24b9d3a7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6432238952448
+    m_Localized: ef30a11aed37d2f42b16819c9e556d6b
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6432964567040
+    m_Localized: 2fb0fec7eee7df4499b7a7a27448fef6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6433681793024
+    m_Localized: bc177e0b1c30ec4478776cfbde2c6b0b
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21181198589952
+    m_Localized: 32247284d68088441ae577148640d58f
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21580429221888
+    m_Localized: 60b3ca15802ba564b94c785456081159
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

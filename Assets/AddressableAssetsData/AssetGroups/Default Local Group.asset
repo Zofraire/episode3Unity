@@ -14,7 +14,234 @@ MonoBehaviour:
   m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
   m_GroupName: Default Local Group
   m_GUID: 641f528e4fddd534dbd71cde86259430
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 06ab5e9e1145b384a95feae4a7e8fb72
+    m_Address: Audio/Voices/9.1 mn/zaavar text
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0b7ff79f9d482db41900626f78b47661
+    m_Address: Audio/Voices/8.3 mn/asuult 3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-mn
+    - Locale-sn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13b60095a634fcc43b607f3cecc8f659
+    m_Address: "Audio/Voices/9.1 mn/8.\u041D\u044D\u0433\u044D\u043D\u0434\u044D\u044D
+      \u0445\u04AF\u043D\u0434\u044D\u0442\u0433\u044D\u043B\u0442\u044D\u0439 \u0445\u0430\u043D\u0434\u0430\u0445\u044B\u0433
+      \u0443\u0440\u0438\u0430\u043B\u0436 \u0431\u0430\u0439\u043D\u0430  mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1bcc44a6e12295b4f9e16c8717f5f913
+    m_Address: "Audio/Voices/9.1 mn/2.\u0411\u0438\u0434 \u0431\u04AF\u0434\u04AF\u04AF\u043B\u044D\u0433
+      \u04AF\u0433 \u0445\u044D\u0440\u044D\u0433\u043B\u044D\u0445\u0433\u04AF\u0439
+      mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21e986fbd760b224695885e7413c380a
+    m_Address: Audio/Voices/8.2 mn/bayr hurgey
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-mn
+    - Locale-sn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22063d752758eaf46aefe29fd11ee896
+    m_Address: "Audio/Voices/9.1 mn/6.\u0411\u0438 \u0431\u0443\u0441\u0434\u044B\u0433
+      \u0445\u04AF\u043D\u0434\u044D\u043B\u0436 \u0445\u0430\u0440\u0438\u043B\u0446\u0430\u0445
+      \u0431\u043E\u043B\u043D\u043E mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3314a66d56360a54aabb1855cbbaacdc
+    m_Address: "Audio/Voices/9.1 mn/5.\u0411\u0438\u0434 \u0430\u043D\u0433\u0438\u0434\u0430\u0430
+      \u043D\u044D\u0433\u043D\u044D\u044D \u0448\u043E\u043E\u043B\u0434\u043E\u0433\u0433\u04AF\u0439
+      mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39ae9108d7867a3478b2549783d71f82
+    m_Address: Audio/Voices/8.2 mn/anhaaraltai ajiglaarai
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e7fe23b88a8836459493712dfa24897
+    m_Address: Audio/Voices/8.1 mn/zaavar ug
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57857322a97f35946a7713b45d8063ce
+    m_Address: Audio/Voices/8.3 mn/asuult 1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-mn
+    - Locale-sn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a54d0ba124d3b247a456ad4dd7cf42b
+    m_Address: "Audio/Voices/8.1 mn/\u0421\u044D\u0442\u0433\u044D\u043B \u0445\u04E9\u0434\u043B\u04E9\u043B\u04E9\u04E9
+      \u0442\u0430\u043D\u044C\u0441\u043D\u0430\u0430\u0440 \u0431\u0443\u0441\u0434\u0430\u0434
+      \u0442\u0443\u0441\u0430\u043B\u0436 \u0447\u0430\u0434\u043D\u0430."
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5fea9ad174c3fde4580f148b3f4322ec
+    m_Address: Audio/Voices/8.3 mn/asuult 2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-mn
+    - Locale-sn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6204fef1c445fdd4da9710a253af7ce9
+    m_Address: Audio/Voices/8.2 mn/bayrlah
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-mn
+    - Locale-sn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e368dbfe07009041aa2b9f4904b7c55
+    m_Address: Audio/Voices/8.3 mn/tugsgul
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-mn
+    - Locale-sn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7175daaf2f91534458accd2d8792f1f5
+    m_Address: Audio/Voices/8.2 mn/ahin oroldooroi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-mn
+    - Locale-sn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7596306f5b6187342ad55465037e1d8b
+    m_Address: Audio/Voices/8.1 mn/zaavar text
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ccc3d2ec2c7e2f4eab75c754cc73abe
+    m_Address: Audio/Voices/8.3 mn/zuv baina
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-mn
+    - Locale-sn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a097ee544eae8ca48bfc809b46f9fe89
+    m_Address: Audio/Voices/8.2 mn/jigshih
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-mn
+    - Locale-sn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6febe59a078df041ad4e26536dee143
+    m_Address: Audio/Voices/8.3 mn/bayr hurgey
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1505270c9cbeb94e89bd60765556bb3
+    m_Address: "Audio/Voices/8.1 mn/\u0423\u0443\u0440\u043B\u0430\u0441\u0430\u043D
+      \u0447 \u0431\u0443\u0441\u0434\u044B\u0433 \u0431\u04AF\u04AF \u0431\u0443\u0440\u0443\u0443\u0442\u0433\u0430\u0430\u0440\u0430\u0439.
+      \u0425\u044D\u043D \u043D\u044D\u0433\u043D\u0438\u0439\u0433 \u0446\u043E\u0445\u0438\u0436,\u0434\u044D\u044D\u0440\u044D\u043B\u0445\u044D\u0445
+      \u043D\u044C \u0431\u0443\u0440\u0443\u0443 \u04AF\u0439\u043B\u0434\u044D\u043B
+      \u044E\u043C"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8325872ebbd0264d8eff638e82262eb
+    m_Address: "Audio/Voices/8.1 mn/\u0422\u0430\u0439\u0432\u0448\u0440\u0430\u0445\u044B\u043D
+      \u0442\u0443\u043B\u0434 \u0431\u0443\u0441\u0434\u044B\u0433 \u0433\u043E\u043C\u0434\u043E\u043E\u0445
+      \u0451\u0441\u0433\u04AF\u0439"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bdbc6ccaab6d04744a5a0107eec797eb
+    m_Address: Audio/Voices/8.3 mn/zurgiig sain ajiglaarai
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-mn
+    - Locale-sn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c924dff1e5ebea8499ecd69b569d24be
+    m_Address: "Audio/Voices/9.1 mn/1. \u0431\u0438\u0434 \u0445\u04AF\u0441\u044D\u044D\u0433\u04AF\u0439
+      \u0431\u0430\u0439\u0445\u0430\u0434 \u043D\u044C \u0445\u04AF\u043D\u0438\u0439
+      \u0437\u0443\u0440\u0433\u0438\u0439\u0433..."
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca889db076a880d4faf5a2b52d65c456
+    m_Address: "Audio/Voices/8.1 mn/\u0416\u0438\u043D\u0445\u044D\u043D\u044D \u0445\u04AF\u0447
+      \u0433\u044D\u0434\u044D\u0433 \u043D\u044C \u0437\u04E9\u0432\u0445\u04E9\u043D
+      \u0431\u0438\u0435\u0438\u0439\u043D"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cbf6bc959afdb0b4988a1eb2d475ad70
+    m_Address: Audio/Voices/9.1 mn/amjilttai duuslaa
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d18745a1becb90f4f9a2c58964418537
+    m_Address: Audio/Voices/8.2 mn/aih
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-mn
+    - Locale-sn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d330424ae1ceb294eb265542438521ff
+    m_Address: "Audio/Voices/9.1 mn/3.\u0411\u0443\u0441\u0434\u044B\u0433 \u0434\u043E\u0440\u043E\u043C\u0436\u0438\u043B\u0441\u043E\u043D
+      \u04AF\u0433 \u0445\u044D\u043B\u044D\u0445\u0433\u04AF\u0439 mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5307d8d2f663a64bb6ac8dbd1776275
+    m_Address: Audio/Voices/8.2 mn/Jiin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8d6ac6707aa8bb428db1eca4b916c52
+    m_Address: Audio/Voices/8.2 mn/Jiin zaavar
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc5e7945929a64d45aad2c2300c12ddf
+    m_Address: "Audio/Voices/9.1 mn/4.\u0411\u0438 \u0443\u0443\u0440\u0442\u0430\u0439,
+      \u0442\u04AF\u0440\u044D\u043C\u0433\u0438\u0439 \u0437\u0430\u043D \u0433\u0430\u0440\u0433\u0430\u0445\u0433\u04AF\u0439
+      mp3"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e000155d40207074ba35eb1bd43035dc
+    m_Address: Audio/Voices/8.2 mn/gaihah
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-mn
+    - Locale-sn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3a43dd8bd65d6f4b83d986870d70aa6
+    m_Address: "Audio/Voices/9.1 mn/7.  \u0411\u0438\u0434 \u0431\u0443\u0441\u0434\u044B\u043D
+      \u044D\u0434 \u0437\u04AF\u0439\u043B\u0434 \u0434\u0443\u0440\u0430\u0430\u0440\u0430\u0430..."
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f958c00b42c85cf43b00d25a25f22a05
+    m_Address: Audio/Voices/8.2 mn/amjilttai duuslaa
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc38f990e22f0894d8a59fc46899caa1
+    m_Address: Audio/Voices/8.2 mn/uurlah
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-mn
+    - Locale-sn
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fee00976be6510d4e978b34482f97fab
+    m_Address: Audio/Voices/8.2 mn/guniglah
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-mn
+    - Locale-sn
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: b55af84268cc5e4428296cee7d316ad9, type: 2}
   m_SchemaSet:

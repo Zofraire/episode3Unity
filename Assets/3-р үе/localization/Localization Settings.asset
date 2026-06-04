@@ -23,7 +23,7 @@ MonoBehaviour:
   m_Metadata:
     m_Items: []
   m_ProjectLocaleIdentifier:
-    m_Code: mn
+    m_Code: sn
   m_PreloadBehavior: 1
   m_InitializeSynchronously: 0
   references:
@@ -35,7 +35,7 @@ MonoBehaviour:
       type: {class: SpecificLocaleSelector, ns: UnityEngine.Localization.Settings, asm: Unity.Localization}
       data:
         m_LocaleId:
-          m_Code: mn
+          m_Code: sn
     - rid: 455629999931130052
       type: {class: LocalesProvider, ns: UnityEngine.Localization.Settings, asm: Unity.Localization}
       data: 

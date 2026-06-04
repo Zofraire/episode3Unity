@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 6c33e7768559f424e82be13e28b81337
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2272760856741988333
+    second: 1st-game_0006_zurkh_0
+  - first:
+      213: -5892512225936200468
+    second: 1st-game_0006_zurkh_1
+  - first:
+      213: 5736739817975399147
+    second: 1st-game_0006_zurkh_2
+  - first:
+      213: 5953287744407372223
+    second: 1st-game_0006_zurkh_3
+  - first:
+      213: 7529070313631272579
+    second: 1st-game_0006_zurkh_4
+  - first:
+      213: -1415479855438736150
+    second: 1st-game_0006_zurkh_5
+  - first:
+      213: -2124070385069325835
+    second: 1st-game_0006_zurkh_6
+  - first:
+      213: 337243773493488128
+    second: 1st-game_0006_zurkh_7
+  - first:
+      213: -4696147316474511891
+    second: 1st-game_0006_zurkh_8
+  - first:
+      213: -1973283721078966248
+    second: 1st-game_0006_zurkh_9
+  - first:
+      213: -4482083909147006076
+    second: 1st-game_0006_zurkh_10
+  - first:
+      213: -8269410830386406372
+    second: 1st-game_0006_zurkh_11
+  - first:
+      213: 9065455310533212494
+    second: 1st-game_0006_zurkh_12
+  - first:
+      213: 8775523014673657134
+    second: 1st-game_0006_zurkh_13
+  - first:
+      213: -4361385855850169144
+    second: 1st-game_0006_zurkh_14
+  - first:
+      213: 8363064879688476596
+    second: 1st-game_0006_zurkh_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1st-game_0006_zurkh_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 143
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7c48525f77a8f10800000000000000
+      internalID: 2272760856741988333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1st-game_0006_zurkh_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 154
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec2d62b957993ea0800000000000000
+      internalID: -5892512225936200468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1st-game_0006_zurkh_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 158
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2434b487efc9f40800000000000000
+      internalID: 5736739817975399147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1st-game_0006_zurkh_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 157
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1861369a35e9250800000000000000
+      internalID: 5953287744407372223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1st-game_0006_zurkh_4
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 159
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e4eec3f81ac7860800000000000000
+      internalID: 7529070313631272579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1st-game_0006_zurkh_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae45add22943b5ce0800000000000000
+      internalID: -1415479855438736150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1st-game_0006_zurkh_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 131
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f104041d39c582e0800000000000000
+      internalID: -2124070385069325835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1st-game_0006_zurkh_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 117
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00aaac9dc612ea400800000000000000
+      internalID: 337243773493488128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1st-game_0006_zurkh_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedf1ac95eee3deb0800000000000000
+      internalID: -4696147316474511891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1st-game_0006_zurkh_9
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 97
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818f60c19ec7d94e0800000000000000
+      internalID: -1973283721078966248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1st-game_0006_zurkh_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 76
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b6cc58e607cc1c0800000000000000
+      internalID: -4482083909147006076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1st-game_0006_zurkh_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 60
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cdc09b9a62d3d80800000000000000
+      internalID: -8269410830386406372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1st-game_0006_zurkh_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 50
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49b287f297fecd70800000000000000
+      internalID: 9065455310533212494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1st-game_0006_zurkh_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 5
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d63e7efabe8c970800000000000000
+      internalID: 8775523014673657134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1st-game_0006_zurkh_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc33a5fbae3973c0800000000000000
+      internalID: -4361385855850169144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1st-game_0006_zurkh_15
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 5
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7606bd2339f0470800000000000000
+      internalID: 8363064879688476596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1st-game_0006_zurkh_0: 2272760856741988333
+      1st-game_0006_zurkh_1: -5892512225936200468
+      1st-game_0006_zurkh_10: -4482083909147006076
+      1st-game_0006_zurkh_11: -8269410830386406372
+      1st-game_0006_zurkh_12: 9065455310533212494
+      1st-game_0006_zurkh_13: 8775523014673657134
+      1st-game_0006_zurkh_14: -4361385855850169144
+      1st-game_0006_zurkh_15: 8363064879688476596
+      1st-game_0006_zurkh_2: 5736739817975399147
+      1st-game_0006_zurkh_3: 5953287744407372223
+      1st-game_0006_zurkh_4: 7529070313631272579
+      1st-game_0006_zurkh_5: -1415479855438736150
+      1st-game_0006_zurkh_6: -2124070385069325835
+      1st-game_0006_zurkh_7: 337243773493488128
+      1st-game_0006_zurkh_8: -4696147316474511891
+      1st-game_0006_zurkh_9: -1973283721078966248
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -14,7 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
   m_GroupName: Localization-String-Tables-Sign (sn)
   m_GUID: 795a07d52792e0548b01227ebb32669b
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: a9b839294e2f30341a5c256f9c5eaff7
+    m_Address: ep2_strings_sn
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-sn
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: b55af84268cc5e4428296cee7d316ad9, type: 2}
   m_SchemaSet:

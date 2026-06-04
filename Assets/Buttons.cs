@@ -1,4 +1,5 @@
 ﻿using System.Collections;
+using Project;
 using UnityEngine;
 using UnityEngine.Localization;
 
@@ -35,35 +36,47 @@ public class Lvl2 : MonoBehaviour
     [SerializeField] private Animator curtainsAnimator;
     [SerializeField] private GameObject endWindow;
 
+    [SerializeField] private VideoController videoController;
+
     public AudioSource round1Source;
     public LocalizedAudioClip round1Clip;
+    public string signLanguageRound1;
 
     public AudioSource round2Source;
     public LocalizedAudioClip round2Clip;
+    public string signLanguageRound2;
 
     public AudioSource round3Source;
     public LocalizedAudioClip round3Clip;
+    public string signLanguageRound3;
 
     public AudioSource round4Source;
     public LocalizedAudioClip round4Clip;
+    public string signLanguageRound4;
 
     public AudioSource round5Source;
     public LocalizedAudioClip round5Clip;
+    public string signLanguageRound5;
 
     public AudioSource round6Source;
     public LocalizedAudioClip round6Clip;
+    public string signLanguageRound6;
 
     public AudioSource wrongSource;
     public LocalizedAudioClip wrongClip;
+    public string signLanguageWrong;
 
     public AudioSource attentionSource;
     public LocalizedAudioClip attentionClip;
+    public string signLanguageAttention;
 
     public AudioSource congratulationsSource;
     public LocalizedAudioClip congratulationsClip;
+    public string signLanguageCongratulations;
 
     public AudioSource endSource;
     public LocalizedAudioClip endClip;
+    public string signLanguageEnd;
 
     private int[] correctSequence;
     private int currentIndex;
@@ -86,6 +99,7 @@ public class Lvl2 : MonoBehaviour
         else if (round > maxRounds)
         {
             endSource.PlayOneShot(endClip.LoadAsset());
+            videoController.Play(signLanguageEnd);
             curtainsAnimator.SetTrigger("CurtainsClose");
             endWindow.SetActive(true);
         }
@@ -105,6 +119,7 @@ public class Lvl2 : MonoBehaviour
     {
         playerTurn = false;
         attentionSource.PlayOneShot(attentionClip.LoadAsset());
+        videoController.Play(signLanguageAttention);
 
         yield return new WaitForSeconds(1.0f);
 
@@ -153,30 +168,35 @@ public class Lvl2 : MonoBehaviour
 
             centerAnimator.SetTrigger("correct");
             congratulationsSource.PlayOneShot(congratulationsClip.LoadAsset());
+            videoController.Play(signLanguageCongratulations);
             yield return new WaitForSeconds(1f);
 
             Emotions.SetActive(true);
             switch (round)
             {
                 case 1:
-
                     round2Source.PlayOneShot(round1Clip.LoadAsset());
+                    videoController.Play(signLanguageRound1);
                     break;
                 case 2:
                     round4Source.PlayOneShot(round2Clip.LoadAsset());
-
+                    videoController.Play(signLanguageRound2);
                     break;
                 case 3:
                     round6Source.PlayOneShot(round3Clip.LoadAsset());
+                    videoController.Play(signLanguageRound3);
                     break;
                 case 4:
                     round5Source.PlayOneShot(round4Clip.LoadAsset());
+                    videoController.Play(signLanguageRound4);
                     break;
                 case 5:
                     round1Source.PlayOneShot(round5Clip.LoadAsset());
+                    videoController.Play(signLanguageRound5);
                     break;
                 case 6:
                     round3Source.PlayOneShot(round6Clip.LoadAsset());
+                    videoController.Play(signLanguageRound6);
                     break;
                 default:
                     break;
@@ -242,7 +262,7 @@ public class Lvl2 : MonoBehaviour
 
         centerAnimator.SetTrigger("incorrect");
         wrongSource.PlayOneShot(wrongClip.LoadAsset());
-
+        videoController.Play(signLanguageWrong);
         currentIndex = 0;
 
         yield return new WaitForSeconds(3f);

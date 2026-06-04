@@ -26,8 +26,8 @@ public class lv3 : MonoBehaviour
     [SerializeField] private UnityEvent onRound_2;
     [SerializeField] private UnityEvent onRound_3;
 
-    public AudioSource correctSource;
-    public AudioSource incorrectSource;
+    public UnityEvent onCorrect;
+    public UnityEvent onIncorrect;
 
 
     [System.Serializable]
@@ -149,7 +149,7 @@ public class lv3 : MonoBehaviour
         correctObjects[buttonIndex].SetActive(true);
         incorrectObjects[buttonIndex].SetActive(false);
 
-        correctSource.Play();
+        onCorrect.Invoke();
 
         DisableButtons();
         currentQuestionIndex++;
@@ -165,7 +165,7 @@ public class lv3 : MonoBehaviour
 
         DisableButtons();
         Invoke(nameof(LoadQuestion), 1f);
-        incorrectSource.Play();
+        onIncorrect.Invoke();
     }
 
 

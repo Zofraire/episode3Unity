@@ -22,13 +22,6 @@ MonoBehaviour:
     - Locale-mn
     - Locale-sn
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 0b7ff79f9d482db41900626f78b47661
-    m_Address: asuult 3
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-mn
-    - Locale-sn
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0cfe1c519f43a0e44b29dbccfb6af602
     m_Address: tugsgul game 3
     m_ReadOnly: 1
@@ -49,13 +42,6 @@ MonoBehaviour:
     m_ReadOnly: 1
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 21e986fbd760b224695885e7413c380a
-    m_Address: bayr hurgey
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-mn
-    - Locale-sn
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2e6cbf2dceb5e2848add6db8df6e2e48
     m_Address: zaavar ug game 3
     m_ReadOnly: 1
@@ -69,59 +55,10 @@ MonoBehaviour:
     m_ReadOnly: 1
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 57857322a97f35946a7713b45d8063ce
-    m_Address: asuult 1
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-mn
-    - Locale-sn
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5aebb5acd9b01354ca09fb5504556f15
     m_Address: Assets/ep2_localization/tables/ep2_strings Shared Data.asset
     m_ReadOnly: 1
     m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 5fea9ad174c3fde4580f148b3f4322ec
-    m_Address: asuult 2
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-mn
-    - Locale-sn
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 6204fef1c445fdd4da9710a253af7ce9
-    m_Address: bayrlah
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-mn
-    - Locale-sn
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 6e368dbfe07009041aa2b9f4904b7c55
-    m_Address: tugsgul
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-mn
-    - Locale-sn
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 7175daaf2f91534458accd2d8792f1f5
-    m_Address: ahin oroldooroi
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-mn
-    - Locale-sn
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 8ccc3d2ec2c7e2f4eab75c754cc73abe
-    m_Address: zuv baina
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-mn
-    - Locale-sn
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: a097ee544eae8ca48bfc809b46f9fe89
-    m_Address: jigshih
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-mn
-    - Locale-sn
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b6681fb405e13a74fa46e50747977e37
     m_Address: asuult 3
@@ -137,13 +74,6 @@ MonoBehaviour:
     - Locale-mn
     - Locale-sn
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: bdbc6ccaab6d04744a5a0107eec797eb
-    m_Address: zurgiig sain ajiglaarai
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-mn
-    - Locale-sn
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c1f6b545e0577e94d8762c2bd348f0c7
     m_Address: tugsul uria text
     m_ReadOnly: 1
@@ -151,22 +81,8 @@ MonoBehaviour:
     - Locale-mn
     - Locale-sn
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: d18745a1becb90f4f9a2c58964418537
-    m_Address: aih
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-mn
-    - Locale-sn
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: de6b6a86c1ab73c4aad2c09038e12dbf
     m_Address: "\u041B\u04AF\u043B\u04AF- \u0445\u044D\u043B\u043D\u044D"
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-mn
-    - Locale-sn
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: e000155d40207074ba35eb1bd43035dc
-    m_Address: gaihah
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-mn
@@ -186,20 +102,6 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f2c122451fff4d64796353e4b1d8c7d8
     m_Address: asuult 1
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-mn
-    - Locale-sn
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: fc38f990e22f0894d8a59fc46899caa1
-    m_Address: uurlah
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-mn
-    - Locale-sn
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: fee00976be6510d4e978b34482f97fab
-    m_Address: guniglah
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-mn
